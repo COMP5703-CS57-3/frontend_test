@@ -1,0 +1,18 @@
+需要的准备工作：
+Amazon Web Services (AWS)亚马逊云 
+用的database RDS托管关系数据库服务 Mysql
+账号密码
+zhli4094@uni.sydney.edu.au
+Comp5703;
+
+使用的ER/数据库建模工具：workbench
+需要inbound加IP
+查IP：
+http://checkip.amazonaws.com/
+WIN: 42.245.196.154
+MAC:
+
+Anaconda
+python 5.7.11
+pycharm(需要申请教育账户)
+postman
